@@ -1,0 +1,44 @@
+body {
+  background-color: #FAF1E6
+}
+
+hr {
+  border-color: red;
+  border-style: none;
+  border-top-style: solid;
+  border-width: 2px;
+  height: 1px;
+  width: 60%;
+}
+
+img {
+  height: 150px;
+}
+
+h1 {
+  color: brown;
+}
+
+h2 {
+  color: brown;
+}
+
+h3 {
+  color: brown;
+}
+
+/* Class selectors */
+.book-cover {
+  height: 80px;
+}
+
+/* Id selectors */
+
+#Barra-ppal {
+  border-color: blue;
+  border-style: none;
+  border-top-style: solid;
+  border-width: 2px;
+  height: 1px;
+  width: 60%;
+}
